@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+img{
+	display: block;
+	margin: auto;
+	
+}
+#explanation{
+	text-align: justify;
+	font-size: 23px;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+#caption, #date, h1{
+	text-align: center;
+	margin: auto;
+	padding: 10px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+h1{
+	color: #ff0000;
+	font-weight: bolder;
+}
+#date, #caption {
+	color: #0000ff;
+	font-size: 20px;
+}
